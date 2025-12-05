@@ -1,5 +1,5 @@
 # Disclaimer
-Use these tools at your own risk. Always test in a development environment before deploying to production.
+Use these tools at your own risk. Always test in a development environment before deploying to production. I did not create any of the applications.
 
 # macOS Endpoint Management Toolkit
 
