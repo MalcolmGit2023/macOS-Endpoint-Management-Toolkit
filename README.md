@@ -6,6 +6,9 @@ Use these tools at your own risk. Always test in a development environment befor
 This repository documents tools and workflows I use as an Endpoint Management Technician for managing MacBooks. It includes packaging, signing, compliance, and configuration utilities.
 
 ---
+## 🏷️ Repository Tags
+
+`macos` `macadmin` `jamf` `mdm` `automation` `security` `compliance` `packaging` `scripting` `enterprise-it`
 
 ## 📦 Package Creation
 - **Packages App**  
