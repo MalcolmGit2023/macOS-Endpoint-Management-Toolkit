@@ -44,6 +44,16 @@ This repository documents tools and workflows I use as an Endpoint Management Te
 - **Jamf Compliance Editor**  
   - https://github.com/Jamf-Concepts/jamf-compliance-editor  
   - **Use Case:** View CIS benchmarks, download plist, and import into Jamf.
+ 
+### MACE Compliance Editor ✅ Production‑Used
+https://github.com/GarySieling/MACEngine
+
+---
+
+### Installomator ✅ Production‑Used
+Automated application installation and updating framework for macOS.
+
+https://github.com/Installomator/Installomator
 
 ---
 
@@ -51,4 +61,40 @@ This repository documents tools and workflows I use as an Endpoint Management Te
 - **iMazing Profile Editor**  
   - https://imazing.com/blog/introducing-imazing-profile-editor  
   - **Use Case:** Inspect and edit Apple Configuration Profiles.
+ 
+---
+
+## 🛠 Management & Automation
+
+### SwiftDialog ✅ Production‑Used
+https://github.com/swiftDialog/swiftDialog
+
+### Jamf Helper ✅ Production‑Used
+Included with Jamf Pro
+
+### Setup Manager 🧪 Lab + Production
+https://github.com/setup-manager/setup-manager
+
+### Self Service+ ✅ Production‑Used
+https://github.com/Self-Serviced/Self-Service-Plus
+
+### AutoPkg / AutoPatch ✅ Production‑Used
+https://github.com/autopkg/autopkg
+
+---
+
+## 🧑‍💻 Developer & Script Authoring
+
+### Sublime Text ✅ Production‑Used
+https://www.sublimetext.com
+
+### Visual Studio Code ✅ Production‑Used
+https://code.visualstudio.com
+
+---
+
+## 🤖 Automation & AI Assistance
+
+### Microsoft Copilot ✅ Daily‑Used
+Used for scripting and Jamf workflows (validation always required).
 
